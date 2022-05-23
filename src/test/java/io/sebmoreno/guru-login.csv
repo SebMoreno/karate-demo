@@ -1,0 +1,2 @@
+username,password,expectedUrl,welcomeMessage
+mgr123,mgr!23,manager/Managerhomepage.php,Manger Id : mgr123

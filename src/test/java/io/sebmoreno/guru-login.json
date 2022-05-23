@@ -1,0 +1,6 @@
+{
+  "USERNAME_INPUT": "[name=uid]",
+  "PASSWORD_INPUT": "[name=password]",
+  "SUBMIT_BUTTON": "[type=submit]",
+  "WELCOME_LABEL" : ".heading3 > td"
+}
